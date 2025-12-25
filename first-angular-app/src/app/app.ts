@@ -8,6 +8,9 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.css'
 })
 export class App {
-  protected readonly title = ('Sagnik Dutta');
-  name = ('Sagnik')  
+  name = "Sagnik Dutta";
+  x = 20;
+  y = 30;
+  user1 = "Batman";
+  user2 = "Superman";
 }
